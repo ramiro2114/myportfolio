@@ -192,6 +192,7 @@
       "name": "Esperando a que se me ocurra algo",
       "isActive": true,
       "description": "Esperando que inspiracion llegue",
+      "github": "test.com",
       "highlights": [
         "Estoy atento"
       ],
