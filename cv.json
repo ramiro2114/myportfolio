@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Ramiro Alejandro Barberi",
-    "label": "Estudiante de Ingenieria en Sistemas en UTN",
+    "label": "Estudiante de Ingeniería en Sistemas en UTN",
     "image": "/me.webp",
     "email": "ramirobarberi@gmail.com",
-    "phone": "+543411111111",
+    "phone": null,
     "url": "https://ramiro2114.com",
-    "summary": "Empezando en el mundo de la tecnologia, apasionado por los videojuegos y el hardware.",
+    "summary": "Empezando en el mundo de la tecnología, apasionado por los videojuegos y el hardware.",
     "location": {
       "address": "",
       "postalCode": "S2000",
@@ -34,136 +34,154 @@
   },
   "work": [
     {
-      "name": "Esperando a la primera",
-      "position": "La que se pueda",
-      "url": "https://empresa.com",
-      "startDate": "2001-01-01",
+      "name": "El Canguro S.R.L",
+      "position": "Transportista",
+      "url": "https://elcanguro.com.ar",
+      "startDate": "2020-01-01",
       "endDate": null,
-      "summary": "Esperando a que se de",
-      "highlights": [
-        "Started the company"
-      ]
+      "summary": "Traslado de personas con discapacidad",
+      "highlights": ["Tengo licencia de conducir profesional"]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universidad Tecnológica Nacional",
-    "url": "https://www.frro.utn.edu.ar/",
-    "area": "Ingeniería en Sistemas de Información",
-    "studyType": "Bachelor",
-    "startDate": "2020-01-01",
-    "endDate": "2030-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Colegio del Sagrado Corazón de Rosario",
+      "url": "https://sagradorosario.edu.ar/",
+      "area": "Bachiller en Economía y Administración de empresas",
+      "studyType": "Bachelor",
+      "startDate": "2015-01-01",
+      "endDate": "2020-01-01",
+      "score": "6.0",
+      "courses": ["Course Example"]
+    },
+    {
+      "institution": "Universidad Tecnológica Nacional",
+      "url": "https://www.frro.utn.edu.ar/",
+      "area": "Ingeniería en Sistemas de Información",
+      "studyType": "Bachelor",
+      "startDate": "2021-01-01",
+      "endDate": "2030-01-01",
+      "score": "6.0",
+      "courses": ["Course Example"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
     {
       "name": "MySQL",
       "level": "Avanzado",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     },
     {
       "name": "Next.js",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "React",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     }
   ],
   "languages": [
@@ -176,27 +194,26 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
-      "name": "Esperando a que se me ocurra algo",
+      "name": "Este Portafolio",
       "isActive": true,
-      "description": "Esperando que inspiracion llegue",
-      "github": "test.com",
-      "highlights": [
-        "Estoy atento"
-      ],
-      "url": "https://alaespera.com"
+      "description": "Desplegado en Vercel",
+      "github": null,
+      "highlights": ["Astro", "TypeScript", "Ninja Keys"],
+      "url": "https://github.com/ramiro2114/myportfolio"
     }
   ]
 }
